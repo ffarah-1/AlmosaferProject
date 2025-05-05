@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-05T15:59:54 GMT+03:00" name="Default suite" finished-at="2025-05-05T16:00:20 GMT+03:00" duration-ms="26060">
+    <groups>
+    </groups>
+    <test started-at="2025-05-05T15:59:54 GMT+03:00" name="Default test" finished-at="2025-05-05T16:00:20 GMT+03:00" duration-ms="26060">
+      <class name="mosaferTest.AppTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T15:59:54 GMT+03:00" name="mySetup" finished-at="2025-05-05T15:59:56 GMT+03:00" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="CheckTheDefaultLanguageIsEnglish()[pri:1, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T15:59:56 GMT+03:00" name="CheckTheDefaultLanguageIsEnglish" finished-at="2025-05-05T15:59:56 GMT+03:00" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheDefaultLanguageIsEnglish -->
+        <test-method signature="CheckTheCurrencyIsSAR()[pri:2, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T15:59:56 GMT+03:00" name="CheckTheCurrencyIsSAR" finished-at="2025-05-05T15:59:56 GMT+03:00" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheCurrencyIsSAR -->
+        <test-method signature="CheckTheContactNum()[pri:3, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T15:59:56 GMT+03:00" name="CheckTheContactNum" finished-at="2025-05-05T15:59:56 GMT+03:00" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheContactNum -->
+        <test-method signature="navigateToSite()[pri:4, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T15:59:56 GMT+03:00" name="navigateToSite" finished-at="2025-05-05T16:00:01 GMT+03:00" duration-ms="5287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToSite -->
+        <test-method signature="verifyQitafLogoIsDisplayed()[pri:5, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:01 GMT+03:00" name="verifyQitafLogoIsDisplayed" finished-at="2025-05-05T16:00:02 GMT+03:00" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyQitafLogoIsDisplayed -->
+        <test-method signature="HotelTab()[pri:6, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:02 GMT+03:00" name="HotelTab" finished-at="2025-05-05T16:00:02 GMT+03:00" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelTab -->
+        <test-method signature="DepartureFlightDate()[pri:7, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:02 GMT+03:00" name="DepartureFlightDate" finished-at="2025-05-05T16:00:02 GMT+03:00" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DepartureFlightDate -->
+        <test-method signature="ReturnFlightDate()[pri:8, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:02 GMT+03:00" name="ReturnFlightDate" finished-at="2025-05-05T16:00:02 GMT+03:00" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReturnFlightDate -->
+        <test-method signature="randomLanguageSwitch()[pri:9, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:02 GMT+03:00" name="randomLanguageSwitch" finished-at="2025-05-05T16:00:03 GMT+03:00" duration-ms="1047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomLanguageSwitch -->
+        <test-method signature="switchToHotelTabAndSearch()[pri:10, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:03 GMT+03:00" name="switchToHotelTabAndSearch" finished-at="2025-05-05T16:00:06 GMT+03:00" duration-ms="3010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToHotelTabAndSearch -->
+        <test-method signature="selectRoomDetails()[pri:11, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:06 GMT+03:00" name="selectRoomDetails" finished-at="2025-05-05T16:00:06 GMT+03:00" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRoomDetails -->
+        <test-method signature="clickSearchHotels()[pri:12, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:06 GMT+03:00" name="clickSearchHotels" finished-at="2025-05-05T16:00:09 GMT+03:00" duration-ms="2802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearchHotels -->
+        <test-method signature="waitForSearchResults()[pri:13, instance:mosaferTest.AppTest@2002348]" started-at="2025-05-05T16:00:09 GMT+03:00" name="waitForSearchResults" finished-at="2025-05-05T16:00:20 GMT+03:00" duration-ms="10997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitForSearchResults -->
+      </class> <!-- mosaferTest.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
